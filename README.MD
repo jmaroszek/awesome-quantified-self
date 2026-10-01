@@ -175,6 +175,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Tally
 
 ### Time
+- [Time](https://trackwithtime.com/?from=awesome-qs) - Private, local, automatic time tracking (Windows).
 - [Toggl](https://toggl.com/) - Time tracker and employee timesheet software (iOS & Android).
 - [Timesheet](http://timesheet.rauscha.com/) - Android time tracker (Android).
 - [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
